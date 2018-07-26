@@ -1,0 +1,4 @@
+# pet {
+  position: center;
+
+}
