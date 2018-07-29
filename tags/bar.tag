@@ -1,5 +1,16 @@
-<div style="border: 1px solid blue; padding: 15px; width:auto;">
-test text
-</div>
+<bar>
+  <p>
+    this is a test text
+  </p>
+<script>
+  console.log("This is a test");
+</script>
+<style>
+  :scope {
 
-<button type="button" name="button">Feed Me</button>
+    color:pink;
+  }
+</style>
+
+
+</bar>
